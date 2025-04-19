@@ -6,7 +6,7 @@ export const personalData = {
   email: 'mohamedhaffoudhi15@gmail.com',
   phone: '+216 20903631',
   address: 'Monastir Skanes 5000, Tunisia',
-  github: 'https://github.com/said7388',
+  github: 'https://github.com/pwnz15',
   facebook: 'https://www.facebook.com/Pwnzcs/',
   linkedIn: 'https://www.linkedin.com/in/mohamed-haffoudhi-496550294/',
   twitter: ' ',
